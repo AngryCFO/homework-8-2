@@ -10,8 +10,16 @@
 3. Создайте в jenkins Freestyle Project, подключите получившийся репозиторий к нему и произведите запуск тестов и сборку проекта ```go test .``` и  ```docker build .```.
 
 В качестве ответа пришлите скриншоты с настройками проекта и результатами выполнения сборки.
+
+![Скриншот 1 к заданию 1](1_8-2.pgn).
+
+![Скриншот 2 к заданию 1](img/2_8-2.pgn).
+
 ![Скриншот 1 к заданию 1](https://github.com/AngryCFO/homework-8-2/tree/main/img/1_8-2.jpg)
 
+![Скриншот 1 к заданию 1](https://github.com/AngryCFO/homework-8-2/tree/main/img/1_8-2.jpg)
+
+![Скриншот 1 к заданию 1](https://github.com/AngryCFO/homework-8-2/tree/main/img/1_8-2.jpg)
 
 ---
 
@@ -24,6 +32,9 @@
 
 В качестве ответа пришлите скриншоты с настройками проекта и результатами выполнения сборки.
 
+![Скриншот 1 к заданию 1](https://github.com/AngryCFO/homework-8-2/tree/main/img/1_8-2.jpg)
+
+![Скриншот 1 к заданию 1](https://github.com/AngryCFO/homework-8-2/tree/main/img/1_8-2.jpg)
 
 
 ---
@@ -39,4 +50,7 @@
 
 В качестве ответа пришлите скриншоты с настройками проекта и результатами выполнения сборки.
 
+![Скриншот 1 к заданию 1](https://github.com/AngryCFO/homework-8-2/tree/main/img/1_8-2.jpg)
+
+![Скриншот 1 к заданию 1](https://github.com/AngryCFO/homework-8-2/tree/main/img/1_8-2.jpg)
 
